@@ -1,4 +1,5 @@
-Slalom Data Challenge
+
+E-Commerce Website Fraud Detection Data Challenge
 --------------------
 
 Author: Nitya Mandyam
